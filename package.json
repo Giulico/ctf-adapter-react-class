@@ -1,6 +1,6 @@
 {
   "name": "cft-adapter-react-class",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adapter for create-from-template",
   "main": "index.js",
   "scripts": {
