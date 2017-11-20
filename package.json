@@ -1,0 +1,28 @@
+{
+  "name": "cft-adapter-react-class",
+  "version": "1.0.0",
+  "description": "Adapter for create-from-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-aq-changelog"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Giulico/ctf-adapter-react-class.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giulico/cft-adapter-stateless/issues"
+  },
+  "homepage": "https://github.com/Giulico/cft-adapter-react-class#readme",
+  "devDependencies": {
+    "cz-aq-changelog": "^1.0.2"
+  }
+ }
